@@ -1,0 +1,11 @@
+miami
+shanghai
+albany
+chongqing
+tokyo
+beijing
+detroit
+new york
+hong kong
+macau
+
